@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2999","User login test @master @sanity @regression","chromium","2025-11-16","passed","2025-11-16","","Login.spec.ts","",""
