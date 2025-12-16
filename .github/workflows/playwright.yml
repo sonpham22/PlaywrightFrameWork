@@ -1,8 +1,9 @@
-name: Playwright Tests
+name: Playwright Tests 1
 
 on:
-  push:
-    branches: [ main ] #testxxx
+  repository_dispatch:
+    types: [run-e2e]
+  workflow_dispatch:
 
 jobs:
   test:
