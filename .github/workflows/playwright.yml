@@ -3,7 +3,7 @@ name: Playwright Tests
 on:
   schedule:
     # 10 2 * * * = 02:10 UTC = 09:10 sáng giờ Việt Nam
-    - cron: '30 2 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:   # cho phép chạy tay từ tab Actions
 
 jobs:
