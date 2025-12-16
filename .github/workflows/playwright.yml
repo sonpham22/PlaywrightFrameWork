@@ -2,7 +2,7 @@ name: Playwright Tests
 
 on:
   schedule:
-    - cron: '55 1 * * *'  # chạy mỗi ngày lúc 01:55 UTC ~ 08:55 sáng VN
+    - cron: '10 2 * * *'  # chạy mỗi ngày lúc 01:55 UTC ~ 08:55 sáng VN
   # Nếu muốn cho phép chạy tay, giữ thêm dòng này:
   # workflow_dispatch:
 
