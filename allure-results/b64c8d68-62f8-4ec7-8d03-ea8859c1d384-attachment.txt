@@ -1,0 +1,22 @@
+{
+  bookingid: 2680,
+  booking: {
+    firstname: 'Jim',
+    lastname: 'Brown',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2025-07-01', checkout: '2025-07-05' },
+    additionalneeds: 'super bowls'
+  }
+}
+Booking id======> 2680
+Token ======> d467778303beddf
+{
+  firstname: 'Scott',
+  lastname: 'Tiger',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-07-01', checkout: '2025-07-05' },
+  additionalneeds: 'mango'
+}
+Booking details updated succesfully...
